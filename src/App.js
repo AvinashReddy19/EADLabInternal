@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is a deployed react app By Avinash Reddy Challa part of EAD lab external. App has been deployed using vercel. 
         </p>
         <a
           className="App-link"
